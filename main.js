@@ -24,7 +24,7 @@ function draw(){
     circle(590, 440, 50);
 }
 
-function save(){
+function snapshot(){
 
     save("Image_With_Shapes.png");
 }
